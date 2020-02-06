@@ -1,6 +1,6 @@
----
+l---
 title: "Lab 04 - The RMS Titanic"
-author: "Lab Group - Member 1, Member 2, Member 3, Member 4"
+author: "Lab Group - gustavo, Member 2, Member 3, Member 4"
 date: "Due Thursday, Feb 13 at 11:59p"
 output:
   html_document: default
